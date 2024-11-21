@@ -162,3 +162,12 @@ With the data loaded into Power BI, we can now create compelling visualizations 
 ### Conclusion
 By leveraging Python and Power BI, we’ve efficiently downloaded, organized, and visualized the Paris 2024 Olympic dataset. This project demonstrates the power of data analysis and visualization in understanding the dynamics of a global event like the Olympics.
 
+## Snapshots of the Olympic Dashboard
+![image alt ](https://github.com/Raghu20082002/Olympic-Dashboard/blob/e36abd8a57b87c647daa3da02e61031e49f2b179/1.png) 
+
+![image alt ](https://github.com/Raghu20082002/Olympic-Dashboard/blob/e36abd8a57b87c647daa3da02e61031e49f2b179/2.png)
+
+
+![image alt ](https://github.com/Raghu20082002/Olympic-Dashboard/blob/e36abd8a57b87c647daa3da02e61031e49f2b179/3.png)
+
+![image alt ](https://github.com/Raghu20082002/Olympic-Dashboard/blob/e36abd8a57b87c647daa3da02e61031e49f2b179/4.png)
